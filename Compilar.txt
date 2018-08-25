@@ -1,0 +1,3 @@
+no cmd:
+javac arquivo.java //criará arquivo.class
+java arquivo //execulta sem digitar .class

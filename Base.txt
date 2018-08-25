@@ -1,0 +1,10 @@
+System.out.println("");
+
+
+class NomeDaClasse{
+	
+	public static void main(String args[]){
+					
+	}
+
+}

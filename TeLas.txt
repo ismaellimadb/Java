@@ -1,0 +1,10 @@
+Try This 2-2 Display a Truth Table for the Logical Operators
+In this project, you will create a program that displays the truth table for Java’s logical operators.
+You must make the columns in the table line up. This project makes use of several features covered in
+this chapter, including one of Java’s escape sequences and the logical operators. It also illustrates the
+differences in the precedence between the arithmetic + operator and the logical operators.
+1. Create a new file called LogicalOpTable.java.
+2. To ensure that the columns line up, you will use the \t escape sequence to embed tabs into each
+output string. For example, this println( ) statement displays the header for the table:
+3. Each subsequent line in the table will use tabs to position the outcome of each operation under its
+proper heading.
