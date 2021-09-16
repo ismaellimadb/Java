@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>releasenoteshome [Clarion Community Help]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="releasenoteshome"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=releasenoteshome&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=releasenoteshome"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=releasenoteshome"/>
+<link rel="canonical" href="http://clarion.help/doku.php?id=releasenoteshome"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"releasenoteshome","namespace":"","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=logo.png" width="354" height="103" alt="" /> <span>Clarion Community Help</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/doku.php?id=releasenoteshome&amp;do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="releasenoteshome" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="releasenoteshome" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/doku.php?id=releasenoteshome&amp;do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action media"><a href="/doku.php?id=releasenoteshome&amp;do=media&amp;ns=" title="Media Manager" rel="nofollow">Media Manager</a></li><li class="action index"><a href="/doku.php?id=releasenoteshome&amp;do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=start"  class="breadcrumbs" title="start">start</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=clarionhelp_contents"  class="breadcrumbs" title="clarionhelp_contents">clarionhelp_contents</a></bdi> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=releasenoteshome"  class="breadcrumbs" title="releasenoteshome">releasenoteshome</a></bdi></span></div>
+                    </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>releasenoteshome</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc" class="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#release_notes">Release Notes</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#clarion_111">Clarion 11.1</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_11">Clarion 11</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_10">Clarion 10</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_91">Clarion 9.1</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_9">Clarion 9</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_8">Clarion 8</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_7">Clarion 7</a></div></li>
+<li class="level2"><div class="li"><a href="#clarion_6">Clarion 6</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="release_notes">Release Notes</h1>
+<div class="level1">
+
+<p>
+All release notes are to be found here
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="clarion_111">Clarion 11.1</h2>
+<div class="level2">
+
+<p>
+<strong>Re-compilation of all program components is required</strong>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.1.13744" class="wikilink1" title="readme_11.1.13744">Build 13744</a> June 4, 2021 - AnyScreen 1.2 update  
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="clarion_11">Clarion 11</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=readme_11.0.13630" class="wikilink1" title="readme_11.0.13630">Build 13630</a> September 11, 2020  <strong>* Warning Functions called as procedure not executed </strong>*
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13622" class="wikilink1" title="readme_11.0.13622">Build 13622</a> September 4, 2020
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13505" class="wikilink1" title="readme_11.0.13505">Build 13505</a> February 12, 2020
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13401" class="wikilink1" title="readme_11.0.13401">Build 13401</a>  March 19, 2019 
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13371" class="wikilink1" title="readme_11.0.13371">Build 13371</a> February 6, 2019
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13244" class="wikilink1" title="readme_11.0.13244">Build 13244</a> October 9, 2018
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13227" class="wikilink1" title="readme_11.0.13227">Build 13227</a> October 2, 2018
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13198" class="wikilink1" title="readme_11.0.13198">Build 13198</a> September 21, 2018
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13185" class="wikilink1" title="readme_11.0.13185">Build 13185</a> September 11, 2018
+</p>
+
+<p>
+<a href="/doku.php?id=readme_11.0.13175" class="wikilink1" title="readme_11.0.13175">Build 13175</a> September 4, 2018 - GOLD
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="clarion_10">Clarion 10</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=readme_10.0.12799" class="wikilink1" title="readme_10.0.12799">Build 12799</a> November 17, 2017
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12760" class="wikilink1" title="readme_10.0.12760">Build 12760</a> November 8, 2017 <strong>* Warning Dialogue and Pragma Problems </strong>* 
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12567" class="wikilink1" title="readme_10.0.12567">Build 12567</a> May 26, 2017
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12463" class="wikilink1" title="readme_10.0.12463">Build 12463</a> January 30, 2017
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12398" class="wikilink1" title="readme_10.0.12398">Build 12398</a> November 18, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12349" class="wikilink1" title="readme_10.0.12349">Build 12349</a> September 28, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12345" class="wikilink2" title="readme_10.0.12345" rel="nofollow">Build 12345</a> September 20, 2016 <strong>* Do not use this build - REAL values are broken </strong>*
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12341" class="wikilink1" title="readme_10.0.12341">Build 12341</a> September 20, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12327" class="wikilink1" title="readme_10.0.12327">Build 12327</a> September 13, 2016  <strong>* Warning ODBC Problems </strong>*
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12278" class="wikilink1" title="readme_10.0.12278">Build 12278</a> August 11, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12258" class="wikilink1" title="readme_10.0.12258">Build 12258</a> July 22, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12211" class="wikilink1" title="readme_10.0.12211">Build 12211</a> June 10, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12104" class="wikilink1" title="readme_10.0.12104">Build 12104</a> March 1, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12055" class="wikilink1" title="readme_10.0.12055">Build 12055</a> February 5, 2016
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.12026" class="wikilink1" title="readme_10.0.12026">Build 12026</a> December 22, 2015
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.11975" class="wikilink1" title="readme_10.0.11975">Build 11975</a> October 27, 2015
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.11925" class="wikilink1" title="readme_10.0.11925">Build 11925</a> September 29, 2015
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.11897" class="wikilink1" title="readme_10.0.11897">Build 11897</a> August 13, 2015
+</p>
+
+<p>
+<a href="/doku.php?id=readme_10.0.11834" class="wikilink1" title="readme_10.0.11834">Build 11834</a> June 5, 2015   *GOLD Release* and Beta Release notes
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="clarion_91">Clarion 9.1</h2>
+<div class="level2">
+
+<p>
+Note: The 9.1 release requires a one-time rebuild of all your Binaries (DLL and LIB).
+You also need to download the 9.1 versions of any 3rd party addons that you use.
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11529" class="wikilink1" title="readme_9.1.11529">Build 11529</a>   Date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11497" class="wikilink1" title="readme_9.1.11497">Build 11497</a>   Date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11457" class="wikilink1" title="readme_9.1.11457">Build 11457</a>   Date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11396" class="wikilink1" title="readme_9.1.11396">Build 11396</a>   November 17, 2014
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11375" class="wikilink2" title="readme_9.1.11375" rel="nofollow">Build 11375</a>   Date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11313" class="wikilink2" title="readme_9.1.11313" rel="nofollow">Build 11313</a>   Date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11139" class="wikilink2" title="readme_9.1.11139" rel="nofollow">Build 11139</a>   July 29, 2014  GOLD Release
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11054" class="wikilink2" title="readme_9.1.11054" rel="nofollow">Build 11054</a>   Beta 12 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11038" class="wikilink2" title="readme_9.1.11038" rel="nofollow">Build 11038</a>   Beta 11 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.11014" class="wikilink2" title="readme_9.1.11014" rel="nofollow">Build 11014</a>   Beta 10 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10971" class="wikilink2" title="readme_9.1.10971" rel="nofollow">Build 10971</a>   Beta  9 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10938" class="wikilink2" title="readme_9.1.10938" rel="nofollow">Build 10938</a>   Beta  8 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10916" class="wikilink2" title="readme_9.1.10916" rel="nofollow">Build 10916</a>   Beta  7 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10864" class="wikilink2" title="readme_9.1.10864" rel="nofollow">Build 10864</a>   Beta  6 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10789" class="wikilink2" title="readme_9.1.10789" rel="nofollow">Build 10789</a>   Beta  5 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10741" class="wikilink2" title="readme_9.1.10741" rel="nofollow">Build 10741</a>   Beta  4 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10677" class="wikilink2" title="readme_9.1.10677" rel="nofollow">Build 10677</a>   Beta  3 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10655" class="wikilink2" title="readme_9.1.10655" rel="nofollow">Build 10655</a>   Beta  2 (pre-release) Date?  
+</p>
+
+<p>
+<a href="/doku.php?id=readme_9.1.10638" class="wikilink2" title="readme_9.1.10638" rel="nofollow">Build 10638</a>   Beta  1 (pre-release) Date?  
+</p>
+
+</div>
+
+<h2 class="sectionedit6" id="clarion_9">Clarion 9</h2>
+<div class="level2">
+
+</div>
+
+<h2 class="sectionedit7" id="clarion_8">Clarion 8</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=readme_8.0.8274" class="wikilink1" title="readme_8.0.8274">Build 8274</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.8578" class="wikilink1" title="readme_8.0.8578">Build 8578</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.8599" class="wikilink1" title="readme_8.0.8599">Build 8599</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.8627" class="wikilink1" title="readme_8.0.8627">Build 8627</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.8658" class="wikilink1" title="readme_8.0.8658">Build 8658</a> GOLD RELEASE
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.8973" class="wikilink1" title="readme_8.0.8973">Build 8973</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.9285" class="wikilink1" title="readme_8.0.9285">Build 9285</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.9661" class="wikilink1" title="readme_8.0.9661">Build 9661</a> date?
+</p>
+
+<p>
+<a href="/doku.php?id=readme_8.0.9759" class="wikilink1" title="readme_8.0.9759">Build 9759</a> date?
+</p>
+
+</div>
+
+<h2 class="sectionedit8" id="clarion_7">Clarion 7</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=readme_7.0.5768" class="wikilink1" title="readme_7.0.5768">Build 7.0 5768</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.2.7283" class="wikilink1" title="readme_7.2.7283">Build 7.2 7283</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.2.7350" class="wikilink1" title="readme_7.2.7350">Build 7.2 7350</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.2.7600" class="wikilink1" title="readme_7.2.7600">Build 7.2 7600</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.2.7653" class="wikilink1" title="readme_7.2.7653">Build 7.2 7653</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.3.7900" class="wikilink1" title="readme_7.3.7900">Build 7.3 7900</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.3.7949" class="wikilink1" title="readme_7.3.7949">Build 7.3 7949</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.3.7995" class="wikilink1" title="readme_7.3.7995">Build 7.3 7995</a>
+</p>
+
+<p>
+<a href="/doku.php?id=readme_7.3.7989" class="wikilink1" title="readme_7.3.7989">Build 7.3 7989</a>
+</p>
+
+</div>
+
+<h2 class="sectionedit9" id="clarion_6">Clarion 6</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=readme_6.3.9059" class="wikilink1" title="readme_6.3.9059">Build 9059</a> Date?
+</p>
+
+</div>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>releasenoteshome.txt</bdi> · Last modified: 2021/06/28 02:59 by <bdi>carlbarnes</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="source"><a href="/doku.php?id=releasenoteshome&amp;do=edit" title="Show pagesource [v]" rel="nofollow" accesskey="v"><span>Show pagesource</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m.12 13.5l3.74 3.74 1.42-1.41-2.33-2.33 2.33-2.33-1.42-1.41-3.74 3.74m11.16 0l-3.74-3.74-1.42 1.41 2.33 2.33-2.33 2.33 1.42 1.41 3.74-3.74z"/></svg></a></li><li class="revs"><a href="/doku.php?id=releasenoteshome&amp;do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/doku.php?id=releasenoteshome&amp;do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern">CC Attribution-Share Alike 4.0 International</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="/lib/images/license/button/cc-by-sa.png" alt="CC Attribution-Share Alike 4.0 International" /></a>        <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=releasenoteshome&amp;1631826058" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>

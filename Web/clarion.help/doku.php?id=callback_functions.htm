@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>callback_functions.htm [Clarion Community Help]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="callback_functions.htm"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=callback_functions.htm&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=callback_functions.htm"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=callback_functions.htm"/>
+<link rel="canonical" href="http://clarion.help/doku.php?id=callback_functions.htm"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"callback_functions.htm","namespace":"","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=logo.png" width="354" height="103" alt="" /> <span>Clarion Community Help</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/doku.php?id=callback_functions.htm&amp;do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="callback_functions.htm" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="callback_functions.htm" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/doku.php?id=callback_functions.htm&amp;do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action media"><a href="/doku.php?id=callback_functions.htm&amp;do=media&amp;ns=" title="Media Manager" rel="nofollow">Media Manager</a></li><li class="action index"><a href="/doku.php?id=callback_functions.htm&amp;do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ddetopic_return_server_topic_.htm"  class="breadcrumbs" title="ddetopic_return_server_topic_.htm">ddetopic_return_server_topic_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ddevalue_return_data_value_sent_to_server_.htm"  class="breadcrumbs" title="ddevalue_return_data_value_sent_to_server_.htm">ddevalue_return_data_value_sent_to_server_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ddewrite_provide_data_to_dde_client_.htm"  class="breadcrumbs" title="ddewrite_provide_data_to_dde_client_.htm">ddewrite_provide_data_to_dde_client_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=object_linking_and_embedding.htm"  class="breadcrumbs" title="object_linking_and_embedding.htm">object_linking_and_embedding.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ole_overview.htm"  class="breadcrumbs" title="ole_overview.htm">ole_overview.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ole_container_properties.htm"  class="breadcrumbs" title="ole_container_properties.htm">ole_container_properties.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=oledirectory_get_list_of_installed_ole_ocx_.htm"  class="breadcrumbs" title="oledirectory_get_list_of_installed_ole_ocx_.htm">oledirectory_get_list_of_installed_ole_ocx_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ole_custom_control_overview.htm"  class="breadcrumbs" title="ole_custom_control_overview.htm">ole_custom_control_overview.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=ocx_control_properties.htm"  class="breadcrumbs" title="ocx_control_properties.htm">ocx_control_properties.htm</a></bdi> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=callback_functions.htm"  class="breadcrumbs" title="callback_functions.htm">callback_functions.htm</a></bdi></span></div>
+                    </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>callback_functions.htm</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> <strong>Navigation:</strong>  <a href="/doku.php?id=introduction.htm" class="wikilink1" title="introduction.htm">Language Reference</a> &gt; App A - DDE, OLE, and OCX &gt; OLE (.OCX) Custom Controls &gt;====== Callback Functions ====== </td><td class="col1"> <a href="/doku.php?id=ocx_control_properties.htm" class="media" title="ocx_control_properties.htm"><img src="/lib/exe/fetch.php?media=btn_prev_n.gif" class="media" title="Previous page" alt="Previous page" /></a><a href="/doku.php?id=introduction.htm" class="media" title="introduction.htm"><img src="/lib/exe/fetch.php?media=btn_home_n.gif" class="media" title="Return to chapter overview" alt="Return to chapter overview" /></a><a href="/doku.php?id=calling_ole_object_methods.htm" class="media" title="calling_ole_object_methods.htm"><img src="/lib/exe/fetch.php?media=btn_next_n.gif" class="media" title="Next page" alt="Next page" /></a> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign" colspan="2">  </td>
+	</tr>
+</table></div>
+
+<p>
+<span class="curid"><a href="/doku.php?id=callback_functions.htm#ocxeventprocessor" class="wikilink1" title="callback_functions.htm">OCX Event Processor</a></span>
+</p>
+
+<p>
+<span class="curid"><a href="/doku.php?id=callback_functions.htm#ocx_property_edit_controller" class="wikilink1" title="callback_functions.htm">OCX Property Edit Controller</a></span>
+</p>
+
+<p>
+<span class="curid"><a href="/doku.php?id=callback_functions.htm#ocx_property_change" class="wikilink1" title="callback_functions.htm">OCX Property Change</a></span>
+</p>
+
+<p>
+Callback functions are a standard part of Windows programming in most programming languages. A callback function is a PROCEDURE that you (the programmer) write to handle specific situations that the operating system deems the programmer may need to deal with. A callback function is called by the operating system whenever it needs to pass on these situations. Therefore, a callback function does not appear to be part of the logic flow, but instead appears to be separate and “magic” without any logical connection to other procedures in your program.
+</p>
+
+<p>
+The Clarion for Windows language does not force you to write your own callback functions for all the common tasks that other programming languages require you to, since the Clarion runtime library and the ACCEPT loop handles most of that for you. However, since .OCX controls are written in other languages that do require callback functions, you will need to write your own to deal with the events and other programming issues for the .OCX controls you use in Clarion programs. Since CLASS methods have an implicit first parameter of the class name, they cannot be used as callbacks.
+</p>
+
+<p>
+There are three callback functions you can write for your .OCX controls: an event processor, a property edit controller, and a property change handler. You may name these whatever you want, but they have specific requirements for the parameters that they receive.
+</p>
+
+<p>
+<em class="u"><strong>OCX Event Processor Callback Function</strong></em>
+</p>
+
+<p>
+The prototype for the event processor must be:
+</p>
+
+<p>
+<strong>OcxEventFuncName PROCEDURE(*SHORT,SIGNED,LONG),LONG</strong>
+</p>
+
+<p>
+The parameters it receives from the operating system are:
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> *SHORT </td><td class="col1"> A Reference parameter to pass onto the following other OCX library procedures: OCXGETPARAM, OCXGETPARAMCOUNT, and OCXSETPARAM as their first parameter. </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> SIGNED </td><td class="col1"> The field number for the control. This is the same number that is represented by the control&#039;s field equate label. </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> LONG </td><td class="col1"> The number of the .OCX event. Equates for some pre-defined event numbers are contained in the OCXEVENT.CLW file. </td>
+	</tr>
+</table></div>
+
+<p>
+The LONG return value indicates to the operating system whether any further processing is necessary. Returning zero (0) indicates some further processing is necessary (like updating a USE variable or unchecking a radio button), while returning any other value indicates processing is complete.
+</p>
+
+<p>
+Processing the events generated by an .OCX control must occur quickly, since some events have critical timing. Therefore, there should be no user interaction possible within this procedure (such as WINDOWs, ASK statements, or MESSAGE procedures). The code should process only what it needs to, just as quickly as possible (usually, this means eliminating all mouse events).
+</p>
+
+<p>
+<em class="u"><strong>OCX Property Edit Controller Callback Function</strong></em>
+</p>
+
+<p>
+The prototype for the property edit controller must be:
+</p>
+
+<p>
+<strong>OcxPropEditFuncName PROCEDURE(SIGNED,STRING),LONG</strong>
+</p>
+
+<p>
+The parameters it receives from the operating system are:
+</p>
+<div class="table sectionedit3"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> SIGNED </td><td class="col1"> The field number for the control. This is the same as the number represented by the control&#039;s field equate label. </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> STRING </td><td class="col1"> The name of the property about to be edited. </td>
+	</tr>
+</table></div>
+
+<p>
+The LONG return value indicates to the operating system whether permission to edit the property has been granted by the callback function. If the procedure returns zero (0), then permission is denied and the user is not allowed to edit the property. If the procedure returns any value other than zero (0), then permission is granted and the user is allowed to edit the property.
+</p>
+
+<p>
+<strong>OCX Property Change Callback Function</strong>
+</p>
+
+<p>
+The prototype for the property change handler must be:
+</p>
+
+<p>
+<strong>OcxPropChangeProcName PROCEDURE(SIGNED,STRING)</strong>
+</p>
+
+<p>
+The parameters it receives from the operating system are:
+</p>
+<div class="table sectionedit4"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> SIGNED </td><td class="col1"> The field number for the control. This is the same as the number represented by the control&#039;s field equate label. </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> STRING </td><td class="col1"> The name of the changed property. </td>
+	</tr>
+</table></div>
+
+<p>
+This procedure is called when a property has been changed.
+</p>
+
+<p>
+<strong>Example:</strong>
+</p>
+
+<p>
+<strong>! This program uses the Calendar OCX that Microsoft ships with its Access95 </strong>
+</p>
+
+<p>
+<strong>! product (specifically, the one in MS Office Professional for Windows 95).</strong>
+</p>
+
+<p>
+<strong> PROGRAM</strong>
+</p>
+
+<p>
+<strong> MAP</strong>
+</p>
+
+<p>
+<strong> INCLUDE(&#039;OCX.CLW&#039;)</strong>
+</p>
+
+<p>
+<strong>EventFunc  PROCEDURE(*SHORT Reference,SIGNED OleControl,LONG CurrentEvent),LONG</strong>
+</p>
+
+<p>
+<strong>PropChange PROCEDURE(SIGNED OleControl,STRING CurrentProp)</strong>
+</p>
+
+<p>
+<strong>PropEdit   PROCEDURE(SIGNED OleControl,STRING CurrentProp),LONG</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+<p>
+<strong> INCLUDE(&#039;OCXEVENT.CLW&#039;)                          !Constants that OCX events use</strong>
+</p>
+
+<p>
+<strong> INCLUDE(&#039;ERRORS.CLW&#039;)                            !Include errorcode constants</strong>
+</p>
+
+<p>
+<strong>GlobalQue QUEUE                                   !Event and change display queue</strong>
+</p>
+
+<p>
+<strong>F1         STRING(255)</strong>
+</p>
+
+<p>
+<strong>          END</strong>
+</p>
+
+<p>
+<strong>SaveDate FILE,DRIVER(&#039;TopSpeed&#039;),PRE(SAV),CREATE</strong>
+</p>
+
+<p>
+<strong>Record    RECORD</strong>
+</p>
+
+<p>
+<strong>DateField  STRING(10)</strong>
+</p>
+
+<p>
+<strong>          END</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+<strong>MainWin WINDOW(&#039;OCX Demo&#039;),AT(,,350,200),STATUS(-1,-1),SYSTEM,GRAY,MAX,RESIZE</strong>
+</p>
+
+<p>
+<strong>         MENUBAR</strong>
+</p>
+
+<p>
+<strong>          MENU(&#039;&amp;amp;File&#039;)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;Save Date to File&#039;),USE(?SaveObjectValue)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;Retrieve Saved Date&#039;),USE(?GetObject)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;E&amp;amp;xit&#039;),USE(?exit)</strong>
+</p>
+
+<p>
+<strong>          END</strong>
+</p>
+
+<p>
+<strong>          MENU(&#039;&amp;amp;Object&#039;)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;About Box&#039;),USE(?AboutObject)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;Set Date to TODAY&#039;),USE(?SetObjectValueToday)</strong>
+</p>
+
+<p>
+<strong>           ITEM(&#039;Set Date to 1st of Month&#039;),USE(?SetObjectValueFirst)</strong>
+</p>
+
+<p>
+<strong>          END</strong>
+</p>
+
+<p>
+<strong>          ITEM(&#039;&amp;amp;Properties!&#039;),USE(?ActiveObj)</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+<strong>         LIST,AT(237,6,100,100),USE(?List1),HVSCROLL,FROM(GlobalQue)</strong>
+</p>
+
+<p>
+<strong>         OLE,AT(5,10,200,150),USE(?OcxObject)</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+<strong>        END</strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong> OPEN(SaveDate)</strong>
+</p>
+
+<p>
+<strong> IF ERRORCODE()                                  !Check for error on Open</strong>
+</p>
+
+<p>
+<strong>  IF ERRORCODE() = NoFileErr                     !if the file doesn&#039;t exist</strong>
+</p>
+
+<p>
+<strong>   CREATE(SaveDate)                              !create it</strong>
+</p>
+
+<p>
+<strong>   IF ERRORCODE() THEN HALT(,ERROR()) END</strong>
+</p>
+
+<p>
+<strong>   OPEN(SaveDate)                                !then open it for use</strong>
+</p>
+
+<p>
+<strong>   IF ERRORCODE() THEN HALT(,ERROR()) END</strong>
+</p>
+
+<p>
+<strong>  ELSE</strong>
+</p>
+
+<p>
+<strong>   HALT(,ERROR())</strong>
+</p>
+
+<p>
+<strong>  END</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+<p>
+<strong> OPEN(MainWin)</strong>
+</p>
+
+<p>
+<strong> ?OcxObject{PROP:Create} = &#039;MSACAL.MSACALCtrl.7&#039; !MS Access 95 Calendar OCX control</strong>
+</p>
+
+<p>
+<strong> IF RECORDS(SaveDate)                            !Check for existing saved record</strong>
+</p>
+
+<p>
+<strong>  SET(SaveDate)                                  !and get it</strong>
+</p>
+
+<p>
+<strong>  NEXT(SaveDate)</strong>
+</p>
+
+<p>
+<strong>  IF ERRORCODE() THEN STOP(ERROR()).</strong>
+</p>
+
+<p>
+<strong>  POST(EVENT:Accepted,?GetObject)</strong>
+</p>
+
+<p>
+<strong> ELSE</strong>
+</p>
+
+<p>
+<strong>  ADD(SaveDate)                                  !or add one</strong>
+</p>
+
+<p>
+<strong>  IF ERRORCODE() THEN STOP(ERROR()).</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+<p>
+<strong> IF ?OcxObject{PROP:OLE}                         !Check for an OLE Object</strong>
+</p>
+
+<p>
+<strong>  GlobalQue    = &#039;An Object is in the OLE control&#039;</strong>
+</p>
+
+<p>
+<strong>  ADD(GlobalQue)</strong>
+</p>
+
+<p>
+<strong>  IF ?OcxObject{PROP:Ctrl}                       !See if Object is an OCX</strong>
+</p>
+
+<p>
+<strong>   GlobalQue    = &#039;It is an OCX Object&#039;</strong>
+</p>
+
+<p>
+<strong>   ADD(GlobalQue)</strong>
+</p>
+
+<p>
+<strong>  END</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+<p>
+<strong> DISPLAY</strong>
+</p>
+
+<p>
+<strong> OCXREGISTEREVENTPROC(?OcxObject,EventFunc)      !Register Event processing Callback </strong>
+</p>
+
+<p>
+<strong> OCXREGISTERPROPCHANGE(?OcxObject,PropChange)    !Register Property Change Callback </strong>
+</p>
+
+<p>
+<strong> OCXREGISTERPROPEDIT(?OcxObject,PropEdit)        !Register Property Edit Callback </strong>
+</p>
+
+<p>
+<strong> ?OcxObject{PROP:ReportException} = 1            !Enable the OCX&#039;s error reporting</strong>
+</p>
+
+<p>
+<strong> ACCEPT</strong>
+</p>
+
+<p>
+<strong>  CASE EVENT()</strong>
+</p>
+
+<p>
+<strong>  OF EVENT:Accepted</strong>
+</p>
+
+<p>
+<strong>   CASE FIELD()</strong>
+</p>
+
+<p>
+<strong>   OF ?Exit</strong>
+</p>
+
+<p>
+<strong>    POST(EVENT:CloseWindow)</strong>
+</p>
+
+<p>
+<strong>   OF ?AboutObject</strong>
+</p>
+
+<p>
+<strong>    ?OcxObject{&#039;AboutBox&#039;}                       !Display control&#039;s About Box</strong>
+</p>
+
+<p>
+<strong>   OF ?SetObjectValueToday</strong>
+</p>
+
+<p>
+<strong>    ?OcxObject{&#039;Value&#039;} = FORMAT(TODAY(),@D1)    !Set control to TODAY&#039;s date</strong>
+</p>
+
+<p>
+<strong>   OF ?SetObjectValueFirst</strong>
+</p>
+
+<p>
+<strong>    ?OcxObject{&#039;Value&#039;} = MONTH(TODAY()) &amp;amp; &#039;/1/&#039; &amp;amp; SUB(YEAR(TODAY()),3,2)</strong>
+</p>
+
+<p>
+<strong>   OF ?SaveObjectValue                           !Save control&#039;s value to file</strong>
+</p>
+
+<p>
+<strong>    SAV:DateField = ?OcxObject{&#039;Value&#039;}</strong>
+</p>
+
+<p>
+<strong>    PUT(SaveDate)</strong>
+</p>
+
+<p>
+<strong>    IF ERRORCODE() THEN STOP(ERROR()).</strong>
+</p>
+
+<p>
+<strong>   OF ?GetObject                                 !Set control&#039;s value from file</strong>
+</p>
+
+<p>
+<strong>    ?OcxObject{&#039;Value&#039;} = SAV:DateField</strong>
+</p>
+
+<p>
+<strong>   OF ?ActiveObj</strong>
+</p>
+
+<p>
+<strong>    ?OcxObject{PROP:DoVerb} = 0                  !Activate control&#039;s property dialog</strong>
+</p>
+
+<p>
+<strong>   END</strong>
+</p>
+
+<p>
+<strong>  END</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+<p>
+<strong>!Event processing callback function</strong>
+</p>
+
+<p>
+<strong>EventFunc   PROCEDURE(*SHORT Reference,SIGNED OleControl,LONG CurrentEvent)</strong>
+</p>
+
+<p>
+<strong>Count       LONG</strong>
+</p>
+
+<p>
+<strong>Res         CSTRING(200)</strong>
+</p>
+
+<p>
+<strong>Parm        CSTRING(30)</strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong> IF CurrentEvent &lt;;&gt; OCXEVENT:MouseMove           !Eliminate mouse move events</strong>
+</p>
+
+<p>
+<strong>  Res = &#039;Event: &#039; &amp;amp; OleControl{PROP:LastEventName}</strong>
+</p>
+
+<p>
+<strong>  LOOP Count = 1 TO OCXGETPARAMCOUNT(Reference)  !Cycle through all parameters</strong>
+</p>
+
+<p>
+<strong>   Parm = OCXGETPARAM(Reference,Count)           !getting each parameter name</strong>
+</p>
+
+<p>
+<strong>   Res = CLIP(Res) &amp;amp; &#039; - &#039; &amp;amp; Parm                !and concatenate them together</strong>
+</p>
+
+<p>
+<strong>  END</strong>
+</p>
+
+<p>
+<strong>  GlobalQue = Res                                !Assign to a global QUEUE</strong>
+</p>
+
+<p>
+<strong>  ADD(GlobalQue)                                 !and add the entry</strong>
+</p>
+
+<p>
+<strong>  DISPLAY</strong>
+</p>
+
+<p>
+<strong> END </strong>
+</p>
+
+<p>
+<strong> RETURN(True)</strong>
+</p>
+
+<p>
+<strong>!</strong><strong>Change property callback</strong>
+</p>
+
+<p>
+<strong>PropChange  PROCEDURE(SIGNED OleControl,STRING CurrentProp)</strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong> GlobalQue = &#039;PropChange: &#039; &amp;amp; CurrentProp &amp;amp; &#039; = &#039; &amp;amp; OleControl{CurrentProp}</strong>
+</p>
+
+<p>
+<strong>                                                 !Assign to a global QUEUE</strong>
+</p>
+
+<p>
+<strong> ADD(GlobalQue)                                  !add the entry for display</strong>
+</p>
+
+<p>
+<strong> IF ERRORCODE() THEN STOP(ERROR()).</strong>
+</p>
+
+<p>
+<strong>!</strong><strong>Edit property callback</strong>
+</p>
+
+<p>
+<strong>PropEdit    PROCEDURE(SIGNED OleControl,STRING CurrentProp) </strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong>!Ask permission to change value:</strong>
+</p>
+
+<p>
+<strong> IF MESSAGE(&#039;Allow?&#039;,&#039;Change&#039;,ICON:Question,BUTTON:Yes+BUTTON:No,BUTTON:Yes,1) = BUTTON:Yes </strong>
+</p>
+
+<p>
+<strong>  RETURN(1)                                      !Allow the change</strong>
+</p>
+
+<p>
+<strong> ELSE</strong>
+</p>
+
+<p>
+<strong>  RETURN(0)                                      !Dis-allow the change</strong>
+</p>
+
+<p>
+<strong> END</strong>
+</p>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>callback_functions.htm.txt</bdi> · Last modified: 2021/04/15 15:57 (external edit)</div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="source"><a href="/doku.php?id=callback_functions.htm&amp;do=edit" title="Show pagesource [v]" rel="nofollow" accesskey="v"><span>Show pagesource</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m.12 13.5l3.74 3.74 1.42-1.41-2.33-2.33 2.33-2.33-1.42-1.41-3.74 3.74m11.16 0l-3.74-3.74-1.42 1.41 2.33 2.33-2.33 2.33 1.42 1.41 3.74-3.74z"/></svg></a></li><li class="revs"><a href="/doku.php?id=callback_functions.htm&amp;do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/doku.php?id=callback_functions.htm&amp;do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern">CC Attribution-Share Alike 4.0 International</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="/lib/images/license/button/cc-by-sa.png" alt="CC Attribution-Share Alike 4.0 International" /></a>        <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=callback_functions.htm&amp;1631827340" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>

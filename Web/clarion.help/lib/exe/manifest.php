@@ -1,0 +1,1 @@
+{"display":"standalone","scope":"\/","name":"Clarion Community Help","short_name":"Clarion Community Help","description":"","start_url":"\/","background_color":"#fff","theme_color":"#008800","icons":[{"src":"http:\/\/clarion.help\/lib\/exe\/fetch.php?media=wiki:dokuwiki.svg","sizes":"17x17 512x512","type":"image\/svg+xml"}]}

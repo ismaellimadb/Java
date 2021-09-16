@@ -1,0 +1,29 @@
+
+{{logo.png|Logo}}
+
+====== Welcome to Clarion Community Help ======
+
+
+This wiki is a community project to keep the help for the Clarion Development System by [[http://www.softvelocity.com|SoftVelocity]] up to date with additional notes and helpful pointers
+
+
+[[clarionhelp_contents|The full clarion Help Contents is found here]]
+
+[[ReleaseNotesHome|Release Notes]] A guide to release notes
+
+===== Additional Community Resources =====
+
+There is quite a lot of resources for Clarion, but not all of it is easy to find
+
+[[ThirdParty|Third Party Providers]]
+
+[[http://www.clarionlive.com|Clarion Live Webinars]]. Clarion live hosts a number of webinars each week  
+ 
+[[http://www.clarionhub.com|ClarionHub]]. Is a webforum for clarion programmers
+
+== Note about the wiki ==
+
+This wiki has been put together by pulling apart the Clarion CHM and converting to wiki format by automatic means. It is by no means perfect.  Help is required to make it better.
+
+If you want edit privilege please contact Sean Hennessy clarion @ dontpanic.com.au
+Note that only known Clarion users will be able to have this enabled

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>implements_inheritance.htm [Clarion Community Help]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="implements_inheritance.htm"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=implements_inheritance.htm&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=implements_inheritance.htm"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=implements_inheritance.htm"/>
+<link rel="canonical" href="http://clarion.help/doku.php?id=implements_inheritance.htm"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"implements_inheritance.htm","namespace":"","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=logo.png" width="354" height="103" alt="" /> <span>Clarion Community Help</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/doku.php?id=implements_inheritance.htm&amp;do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="implements_inheritance.htm" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="implements_inheritance.htm" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/doku.php?id=implements_inheritance.htm&amp;do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action media"><a href="/doku.php?id=implements_inheritance.htm&amp;do=media&amp;ns=" title="Media Manager" rel="nofollow">Media Manager</a></li><li class="action index"><a href="/doku.php?id=implements_inheritance.htm&amp;do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=create_allow_data_file_creation_.htm"  class="breadcrumbs" title="create_allow_data_file_creation_.htm">create_allow_data_file_creation_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=dim_set_array_dimensions_.htm"  class="breadcrumbs" title="dim_set_array_dimensions_.htm">dim_set_array_dimensions_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=dll_set_variable_defined_externally_in_dll_.htm"  class="breadcrumbs" title="dll_set_variable_defined_externally_in_dll_.htm">dll_set_variable_defined_externally_in_dll_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=driver_specify_data_file_type_.htm"  class="breadcrumbs" title="driver_specify_data_file_type_.htm">driver_specify_data_file_type_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=dup_allow_duplicate_key_entries_.htm"  class="breadcrumbs" title="dup_allow_duplicate_key_entries_.htm">dup_allow_duplicate_key_entries_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=encrypt_encrypt_data_file_.htm"  class="breadcrumbs" title="encrypt_encrypt_data_file_.htm">encrypt_encrypt_data_file_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=external_set_defined_externally_.htm"  class="breadcrumbs" title="external_set_defined_externally_.htm">external_set_defined_externally_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=filter_set_view_filter_expression_.htm"  class="breadcrumbs" title="filter_set_view_filter_expression_.htm">filter_set_view_filter_expression_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=implements_add_methods_to_a_class_.htm"  class="breadcrumbs" title="implements_add_methods_to_a_class_.htm">implements_add_methods_to_a_class_.htm</a></bdi> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=implements_inheritance.htm"  class="breadcrumbs" title="implements_inheritance.htm">implements_inheritance.htm</a></bdi></span></div>
+                    </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>implements_inheritance.htm</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> <strong>Navigation:</strong>  <a href="/doku.php?id=introduction.htm" class="wikilink1" title="introduction.htm">Language Reference</a> &gt; 5 - Declaration Attributes &gt; Variable and Entity Attributes &gt;====== Implementing of INTERFACEs in Derived Classes ====== </td><td class="col1"> <a href="/doku.php?id=implements_add_methods_to_a_class_.htm" class="media" title="implements_add_methods_to_a_class_.htm"><img src="/lib/exe/fetch.php?media=btn_prev_n.gif" class="media" title="Previous page" alt="Previous page" /></a><a href="/doku.php?id=introduction.htm" class="media" title="introduction.htm"><img src="/lib/exe/fetch.php?media=btn_home_n.gif" class="media" title="Return to chapter overview" alt="Return to chapter overview" /></a><a href="/doku.php?id=inner_set_inner_join_operation_.htm" class="media" title="inner_set_inner_join_operation_.htm"><img src="/lib/exe/fetch.php?media=btn_next_n.gif" class="media" title="Next page" alt="Next page" /></a> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign" colspan="2">  </td>
+	</tr>
+</table></div>
+
+<p>
+In versions of Clarion prior to 6.3, a derived child class cannot have the IMPLEMENTS attribute for the same INTERFACEs implemented by the parent class. When this rule is violated the compiler warns about a duplicate field label in the Child class, and if the user ignores the warning in effect he/she loses the derived child class implementations of the interface.
+</p>
+
+<p>
+In the current release, if the duplicate label WARNING is ignored then calling the childs interface of the method actually executes the Parent&#039;s implementation.
+</p>
+
+<p>
+This version supports the re-implementing of INTERFACEs in derived classes. With the new implementation, if the child class has the IMPLEMENTS attribute for an interface already implemented above it in the hierarchy, the compiler builds a new interface VMT.
+</p>
+
+<p>
+<strong>Example:</strong>
+</p>
+
+<p>
+<strong>IFace    INTERFACE</strong>
+</p>
+
+<p>
+<strong>M1         PROCEDURE()</strong>
+</p>
+
+<p>
+<strong>M2         PROCEDURE()</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+<strong>Base     CLASS,TYPE,IMPLEMENTS(IFace)</strong>
+</p>
+
+<p>
+<strong>X         PROCEDURE()</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+<strong>Child    CLASS(Base),TYPE,IMPLEMENTS(IFace)</strong>
+</p>
+
+<p>
+<strong>XY        PROCEDURE()</strong>
+</p>
+
+<p>
+<strong>         END</strong>
+</p>
+
+<p>
+In Clarion 6.3 and greater, the Virtual Memory table (VMT) pointed to by <strong>Base.IFace</strong> contains pointers to functions <strong>Base.IFace.M1</strong> and <strong>Base.IFace.M2</strong> while the VMT pointed by <strong>Child.IFace</strong> contains pointers to functions <strong>Child.IFace.M1</strong> and <strong>Child.IFace.M2</strong>.
+</p>
+
+<p>
+More important, if a child class has the IMPLEMENTS attribute for an interface implemented above in it in the hierarchy, <strong>not all of the interface&#039;s methods have to be overridden.</strong>
+</p>
+
+<p>
+In the example code above, the <strong>Child</strong> class may only re-implement the <strong>M2</strong> method. If some of the interface&#039;s methods are not re-implemented in a child class, the compiler generates stub functions for them, which contain the proper jump instructions to the nearest implementation going up in the hierarchy. So in the above example, if the <strong>Child.IFace.M1</strong> method is not implemented explicitly, the compiler will generate code for it which calls the implementation in the Parent class! This is a huge advantage and flexibility in Clarion 6.3.
+</p>
+
+<p>
+The example code below shows a very simple program using these concepts.
+</p>
+
+<p>
+<strong>  PROGRAM</strong>
+</p>
+
+<p>
+<strong>  MAP</strong>
+</p>
+
+<p>
+<strong>  END</strong>
+</p>
+
+<p>
+<strong>IFace INTERFACE</strong>
+</p>
+
+<p>
+<strong>MyIProc  PROCEDURE</strong>
+</p>
+
+<p>
+<strong>MyIProc2 PROCEDURE</strong>
+</p>
+
+<p>
+<strong>MyIProc3 PROCEDURE</strong>
+</p>
+
+<p>
+<strong>      END</strong>
+</p>
+
+<p>
+<strong>Base  CLASS,IMPLEMENTS(IFace)</strong>
+</p>
+
+<p>
+<strong>cMyProc  PROCEDURE</strong>
+</p>
+
+<p>
+<strong>      END</strong>
+</p>
+
+<p>
+<strong>Child CLASS(Base),IMPLEMENTS(IFace) !Valid only in Clarion 6.3 and greater</strong>
+</p>
+
+<p>
+<strong>bMyProc  PROCEDURE</strong>
+</p>
+
+<p>
+<strong>      END</strong>
+</p>
+
+<p>
+<strong>AnotherChild  CLASS(Base)</strong>
+</p>
+
+<p>
+<strong>IChild         &amp;amp;IFace</strong>
+</p>
+
+<p>
+<strong>              END</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  Base.cMyProc</strong>
+</p>
+
+<p>
+<strong>  Child.bMyProc</strong>
+</p>
+
+<p>
+<strong>  Child.cMyproc         !Calls Base.cMyProc</strong>
+</p>
+
+<p>
+<strong>  Base.IFace.MyIProc</strong>
+</p>
+
+<p>
+<strong>  Child.IFace.MyIProc   !comments:</strong>
+</p>
+
+<p>
+<strong>!Prior to C 6.3, if the user ignores the “duplicate label warning” it really </strong>
+</p>
+
+<p>
+<strong>!calls the parent&#039;s </strong><strong><em>base.iface.MyIProc</em></strong><strong> method. In C6.3 and greater, it calls </strong>
+</p>
+
+<p>
+<strong>!the </strong><strong><em>child.iface.MyIProc</em></strong><strong> implementation.</strong>
+</p>
+
+<p>
+<strong>  Child.IFace.MyIProc2  !Calls Base.IFace.MyIProc2</strong>
+</p>
+
+<p>
+<strong>  Child.IFace.MyIProc3  !Calls Base.IFace.MyIProc3</strong>
+</p>
+
+<p>
+<strong>!procs/methods</strong>
+</p>
+
+<p>
+<strong>Base.cMyProc       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Base.cMyProc&#039;)</strong>
+</p>
+
+<p>
+<strong>Child.bMyProc       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Child.bMyProc&#039;)</strong>
+</p>
+
+<p>
+<strong>! interface implements</strong>
+</p>
+
+<p>
+<strong>Base.IFace.MyIProc       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Base.IFace.MyIProc&#039;)</strong>
+</p>
+
+<p>
+<strong>Base.IFace.MyIProc2       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Base.IFace.MyIProc2&#039;)</strong>
+</p>
+
+<p>
+<strong>Base.IFace.MyIProc3       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Base.IFace.MyIProc3&#039;)</strong>
+</p>
+
+<p>
+<strong>Child.IFace.MyIProc       PROCEDURE</strong>
+</p>
+
+<p>
+<strong>  CODE</strong>
+</p>
+
+<p>
+<strong>  MESSAGE(&#039;Child.IFace.MyIProc&#039;)</strong>
+</p>
+
+<p>
+An important note regarding the above example. Consider this CLASS definition:
+</p>
+
+<p>
+<strong>Child CLASS(Base),IMPLEMENTS(IFace)</strong>
+</p>
+
+<p>
+<strong>bMyProc  PROCEDURE</strong>
+</p>
+
+<p>
+<strong>      END</strong>
+</p>
+
+<p>
+The Child class actually only implements ONE method from the <strong>IFace</strong> interface, but the code calls <em>all three</em> interface methods.
+</p>
+
+<p>
+<strong>See Also:</strong>
+</p>
+
+<p>
+<a href="/doku.php?id=interface_class_behavior_definition_1.htm" class="wikilink1" title="interface_class_behavior_definition_1.htm">INTERFACE</a>
+</p>
+
+<p>
+<a href="/doku.php?id=implements_add_methods_to_a_class_.htm" class="wikilink1" title="implements_add_methods_to_a_class_.htm">IMPLEMENTS</a>
+</p>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>implements_inheritance.htm.txt</bdi> · Last modified: 2021/04/15 15:57 (external edit)</div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="source"><a href="/doku.php?id=implements_inheritance.htm&amp;do=edit" title="Show pagesource [v]" rel="nofollow" accesskey="v"><span>Show pagesource</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m.12 13.5l3.74 3.74 1.42-1.41-2.33-2.33 2.33-2.33-1.42-1.41-3.74 3.74m11.16 0l-3.74-3.74-1.42 1.41 2.33 2.33-2.33 2.33 1.42 1.41 3.74-3.74z"/></svg></a></li><li class="revs"><a href="/doku.php?id=implements_inheritance.htm&amp;do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/doku.php?id=implements_inheritance.htm&amp;do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern">CC Attribution-Share Alike 4.0 International</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="/lib/images/license/button/cc-by-sa.png" alt="CC Attribution-Share Alike 4.0 International" /></a>        <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=implements_inheritance.htm&amp;1631826485" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>

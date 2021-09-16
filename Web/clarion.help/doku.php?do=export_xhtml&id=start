@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>start</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="start"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=start&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=start"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=start"/>
+<link rel="canonical" href="http://clarion.help/"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"start","namespace":"","ACT":"export_xhtml","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+</head>
+<body>
+<div class="dokuwiki export">
+
+<p>
+<a href="/lib/exe/detail.php?id=start&amp;media=logo.png" class="media" title="logo.png"><img src="/lib/exe/fetch.php?media=logo.png" class="media" title="Logo" alt="Logo" /></a>
+</p>
+
+<h1 class="sectionedit1" id="welcome_to_clarion_community_help">Welcome to Clarion Community Help</h1>
+<div class="level1">
+
+<p>
+This wiki is a community project to keep the help for the Clarion Development System by <a href="http://www.softvelocity.com" class="urlextern" title="http://www.softvelocity.com" rel="nofollow">SoftVelocity</a> up to date with additional notes and helpful pointers
+</p>
+
+<p>
+<a href="/doku.php?id=clarionhelp_contents" class="wikilink1" title="clarionhelp_contents">The full clarion Help Contents is found here</a>
+</p>
+
+<p>
+<a href="/doku.php?id=releasenoteshome" class="wikilink1" title="releasenoteshome">Release Notes</a> A guide to release notes
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Welcome to Clarion Community Help&quot;,&quot;hid&quot;:&quot;welcome_to_clarion_community_help&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;21-391&quot;} -->
+<h2 class="sectionedit2" id="additional_community_resources">Additional Community Resources</h2>
+<div class="level2">
+
+<p>
+There is quite a lot of resources for Clarion, but not all of it is easy to find
+</p>
+
+<p>
+<a href="/doku.php?id=thirdparty" class="wikilink1" title="thirdparty">Third Party Providers</a>
+</p>
+
+<p>
+<a href="http://www.clarionlive.com" class="urlextern" title="http://www.clarionlive.com" rel="nofollow">Clarion Live Webinars</a>. Clarion live hosts a number of webinars each week  
+</p>
+
+<p>
+<a href="http://www.clarionhub.com" class="urlextern" title="http://www.clarionhub.com" rel="nofollow">ClarionHub</a>. Is a webforum for clarion programmers
+</p>
+
+</div>
+
+<h5 id="note_about_the_wiki">Note about the wiki</h5>
+<div class="level5">
+
+<p>
+This wiki has been put together by pulling apart the Clarion CHM and converting to wiki format by automatic means. It is by no means perfect.  Help is required to make it better.
+</p>
+
+<p>
+If you want edit privilege please contact Sean Hennessy clarion @ dontpanic.com.au
+Note that only known Clarion users will be able to have this enabled
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Additional Community Resources&quot;,&quot;hid&quot;:&quot;additional_community_resources&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;392-&quot;} --></div>
+</body>
+</html>

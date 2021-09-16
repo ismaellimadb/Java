@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>new_allocate_heap_memory_.htm [Clarion Community Help]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="new_allocate_heap_memory_.htm"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=new_allocate_heap_memory_.htm"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=new_allocate_heap_memory_.htm"/>
+<link rel="canonical" href="http://clarion.help/doku.php?id=new_allocate_heap_memory_.htm"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"new_allocate_heap_memory_.htm","namespace":"","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=logo.png" width="354" height="103" alt="" /> <span>Clarion Community Help</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="new_allocate_heap_memory_.htm" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="new_allocate_heap_memory_.htm" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action media"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=media&amp;ns=" title="Media Manager" rel="nofollow">Media Manager</a></li><li class="action index"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=any_any_simple_data_type_.htm"  class="breadcrumbs" title="any_any_simple_data_type_.htm">any_any_simple_data_type_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=like_inherited_data_type_.htm"  class="breadcrumbs" title="like_inherited_data_type_.htm">like_inherited_data_type_.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=implicit_variables.htm"  class="breadcrumbs" title="implicit_variables.htm">implicit_variables.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=reference_variables.htm"  class="breadcrumbs" title="reference_variables.htm">reference_variables.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=data_declarations_and_memory_allocation.htm"  class="breadcrumbs" title="data_declarations_and_memory_allocation.htm">data_declarations_and_memory_allocation.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=global_local_static_and_dynamic.htm"  class="breadcrumbs" title="global_local_static_and_dynamic.htm">global_local_static_and_dynamic.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=scope_of_variables_and_type_declarations.htm"  class="breadcrumbs" title="scope_of_variables_and_type_declarations.htm">scope_of_variables_and_type_declarations.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=data_declaration_sections.htm"  class="breadcrumbs" title="data_declaration_sections.htm">data_declaration_sections.htm</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=variable_size_declarations.htm"  class="breadcrumbs" title="variable_size_declarations.htm">variable_size_declarations.htm</a></bdi> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=new_allocate_heap_memory_.htm"  class="breadcrumbs" title="new_allocate_heap_memory_.htm">new_allocate_heap_memory_.htm</a></bdi></span></div>
+                    </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>new_allocate_heap_memory_.htm</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <div class="table sectionedit1"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> <strong>Navigation:</strong>  <a href="/doku.php?id=introduction.htm" class="wikilink1" title="introduction.htm">Language Reference</a> &gt; 3 - Variable Declarations &gt; Data Declarations and Memory Allocation &gt;====== NEW (allocate heap memory) ====== </td><td class="col1"> <a href="/doku.php?id=variable_size_declarations.htm" class="media" title="variable_size_declarations.htm"><img src="/lib/exe/fetch.php?media=btn_prev_n.gif" class="media" title="Previous page" alt="Previous page" /></a><a href="/doku.php?id=introduction.htm" class="media" title="introduction.htm"><img src="/lib/exe/fetch.php?media=btn_home_n.gif" class="media" title="Return to chapter overview" alt="Return to chapter overview" /></a><a href="/doku.php?id=dispose_de_allocate_heap_memory_.htm" class="media" title="dispose_de_allocate_heap_memory_.htm"><img src="/lib/exe/fetch.php?media=btn_next_n.gif" class="media" title="Next page" alt="Next page" /></a> </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0 leftalign" colspan="2">  </td>
+	</tr>
+</table></div>
+
+<p>
+<em>reference</em> &amp;amp;= <strong>NEW( </strong><em>datatype </em><strong>)</strong>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=new_allocate_heap_memory_.htm&amp;media=blk2blue.jpg" class="media" title="blk2blue.jpg"><img src="/lib/exe/fetch.php?media=blk2blue.jpg" class="media" title="blk2blue.jpg" alt="blk2blue.jpg" /></a>
+</p>
+<div class="table sectionedit2"><table class="inline">
+	<tr class="row0">
+		<td class="col0"> <em>reference</em> </td><td class="col1"> The label of a reference variable that matches the <em>datatype</em>. </td>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> <strong>NEW</strong> </td><td class="col1"> Creates a new instance of the <em>datatype</em> on the heap. </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> <em>datatype</em> </td><td class="col1"> The label of a previously declared CLASS or QUEUE structure, or any simple data type declaration. This may contain a variable as the parameter of the data type to allow truly dynamic declarations. </td>
+	</tr>
+</table></div>
+
+<p>
+The <strong>NEW </strong>statement creates a new instance of the <em>datatype</em> on the heap. NEW is only valid on the <em>source</em> side of a reference assignment statement. Memory allocated by NEW is automatically initialized to blank or zero when allocated, and <em class="u">must</em> be explicitly de-allocated with the DISPOSE statement (else you&#039;ll create a “memory leak”).
+</p>
+
+<p>
+The use of parentheses around the <em>datatype</em> is optional.
+</p>
+
+<p>
+<strong>Example for WIN32 based code:</strong>
+</p>
+
+<p>
+<strong>StringRef &amp;amp;STRING             !A reference to any STRING variable</strong>
+</p>
+
+<p>
+<strong>LongRef   &amp;amp;LONG               !A reference to any LONG variable</strong>
+</p>
+
+<p>
+<strong>Animal CLASS</strong>
+</p>
+
+<p>
+<strong>Feed    PROCEDURE(short amount)</strong>
+</p>
+
+<p>
+<strong>Weight  LONG</strong>
+</p>
+
+<p>
+<strong>       END</strong>
+</p>
+
+<p>
+<strong>AnimalRef &amp;amp;Animal             !A reference to any Animal CLASS</strong>
+</p>
+
+<p>
+<strong>NameQ QUEUE</strong>
+</p>
+
+<p>
+<strong>Name   STRING(30)</strong>
+</p>
+
+<p>
+<strong>      END</strong>
+</p>
+
+<p>
+<strong>QueRef  &amp;amp;NameQ                !A reference to any QUEUE with only a STRING(30)</strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong> AnimalRef &amp;amp;= NEW(Animal)     !Create new instance of an Animal class</strong>
+</p>
+
+<p>
+<strong> QueRef &amp;amp;= NEW(NameQ)         !Create new instance of a NameQ QUEUE</strong>
+</p>
+
+<p>
+<strong> StringRef &amp;amp;= NEW(STRING(50)) !Create new STRING(50) variable</strong>
+</p>
+
+<p>
+<strong> X# = 35                      !Assign 35 to a variable and then </strong>
+</p>
+
+<p>
+<strong> StringRef &amp;amp;= NEW(STRING(X#)) !use that variable to Create a new STRING(35)</strong>
+</p>
+
+<p>
+<strong> LongRef &amp;amp;= NEW(LONG)         !Create new LONG variable</strong>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=new_allocate_heap_memory_.htm&amp;media=blk2blue.jpg" class="media" title="blk2blue.jpg"><img src="/lib/exe/fetch.php?media=blk2blue.jpg" class="media" title="blk2blue.jpg" alt="blk2blue.jpg" /></a>
+</p>
+
+<p>
+<strong>The following information below applies ONLY to the Clarion# language.</strong>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=new_allocate_heap_memory_.htm&amp;media=newcnet.jpg" class="media" title="newcnet.jpg"><img src="/lib/exe/fetch.php?media=newcnet.jpg" class="media" title="NewCNet.jpg" alt="NewCNet.jpg" /></a>
+</p>
+
+<p>
+<em class="u"><strong>Clarion# - NEW as Operator or Modifier</strong></em>
+</p>
+
+<p>
+In Clarion#, the <strong>NEW</strong> keyword can be used as an operator or as a modifier.
+</p>
+
+<p>
+<strong>NEW Operator</strong>
+</p>
+
+<p>
+The <strong>NEW</strong> operator is used to create objects and invoke constructors, for example:
+</p>
+
+<p>
+<strong>MyClass  Class1</strong>
+</p>
+
+<p>
+<strong>CODE</strong>
+</p>
+
+<p>
+<strong>  MyClass = </strong><strong>NEW</strong><strong> Class1()</strong>
+</p>
+
+<p>
+If the <strong>NEW</strong> operator fails to allocate memory, it throws the “OutOfMemory” exception.
+</p>
+
+<p>
+<strong>NEW Modifier</strong>
+</p>
+
+<p>
+Use the <strong>NEW</strong> modifier to explicitly hide a member inherited from a base class. To hide an inherited member, declare it in the derived class using the same name and signature, and then apply the <strong>NEW</strong> modifier to the declaration.
+</p>
+
+<p>
+Consider the following class:
+</p>
+
+<p>
+<strong>MyBaseClass CLASS,PUBLIC</strong>
+</p>
+
+<p>
+<strong>X            LONG,PUBLIC</strong>
+</p>
+
+<p>
+<strong>Invoke       PROCEDURE()</strong>
+</p>
+
+<p>
+<strong>            END</strong>
+</p>
+
+<p>
+Declaring a method with the name <em>Invoke</em> in a derived class and using the <strong>NEW</strong> modifier will hide the <em>Invoke</em> method in the base class.
+</p>
+
+<p>
+For example:
+</p>
+
+<p>
+<strong>MyDerivedClass  CLASS(MyBaseClass),PUBLIC</strong>
+</p>
+
+<p>
+<strong>X                LONG,PUBLIC</strong>
+</p>
+
+<p>
+<strong>Invoke           PROCEDURE(),PUBLIC,</strong><strong>NEW</strong>
+</p>
+
+<p>
+<strong>                END</strong>
+</p>
+
+<p>
+It is an error to use both NEW and DERIVED on the same member. Using the <strong>NEW</strong> modifier in a declaration that does not hide an inherited member generates a warning.
+</p>
+
+<p>
+<em class="u"><strong>Clarion# - NEW as Operator in Expression</strong></em>
+</p>
+
+<p>
+Clarion# supports the syntax implemented in Clarion 6.0. But, in Clarion# you can also use NEW as an operator in any expression.
+</p>
+
+<p>
+<strong>Example:</strong>
+</p>
+
+<p>
+<strong>C CLASS </strong>
+</p>
+
+<p>
+<strong>T  PROCEDURE(LONG), LONG </strong>
+</p>
+
+<p>
+<strong>  END </strong>
+</p>
+
+<p>
+<strong> </strong>
+</p>
+
+<p>
+<strong>  CODE </strong>
+</p>
+
+<p>
+<strong>   I# = (NEW C).T(3) </strong>
+</p>
+
+<p>
+<em class="u"><strong>Clarion# - Creating arrays with NEW</strong></em>
+</p>
+
+<p>
+In Clarion#, it is now possible to dynamically create arrays with optional initializers. The syntax of this type of operator is as follows:
+</p>
+
+<p>
+Variant without initilizers:
+</p>
+
+<p>
+<strong>NEW </strong>&lt;; <em>elementType</em> &gt;[<em>dim1</em>,&#039;,<em>dimN</em>]
+</p>
+
+<p>
+Variant with initializers:
+</p>
+
+<p>
+<strong>NEW </strong>&lt;; <em>elementType</em> &gt;[,&#039;,]{<em>initdim1elem1</em>,<em> initdim1elem2</em>,&#039;,<em>initdim1elemN</em>}
+</p>
+
+<p>
+<strong>Example:</strong>
+</p>
+
+<p>
+<strong>Arr BYTE[,]</strong>
+</p>
+
+<p>
+<strong> CODE</strong>
+</p>
+
+<p>
+<strong> Arr &amp;amp;= NEW BYTE[,]<a href="/lib/exe/fetch.php?media=1_2_4_5_6_7" class="media mediafile mf_ wikilink2" title="1_2_4_5_6_7">1_2_4_5_6_7</a> !creates an array of dim(3,2)</strong>
+</p>
+
+<p>
+<strong>                                       !and initializes the elements</strong>
+</p>
+
+<p>
+<strong>See Also: </strong><a href="/doku.php?id=dispose_de_allocate_heap_memory_.htm" class="wikilink1" title="dispose_de_allocate_heap_memory_.htm">DISPOSE</a>
+</p>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>new_allocate_heap_memory_.htm.txt</bdi> · Last modified: 2021/04/15 15:57 (external edit)</div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="source"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=edit" title="Show pagesource [v]" rel="nofollow" accesskey="v"><span>Show pagesource</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m.12 13.5l3.74 3.74 1.42-1.41-2.33-2.33 2.33-2.33-1.42-1.41-3.74 3.74m11.16 0l-3.74-3.74-1.42 1.41 2.33 2.33-2.33 2.33 1.42 1.41 3.74-3.74z"/></svg></a></li><li class="revs"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/doku.php?id=new_allocate_heap_memory_.htm&amp;do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern">CC Attribution-Share Alike 4.0 International</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="/lib/images/license/button/cc-by-sa.png" alt="CC Attribution-Share Alike 4.0 International" /></a>        <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=new_allocate_heap_memory_.htm&amp;1631826457" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>

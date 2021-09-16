@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>clarionhelp_contents - Recent Changes [Clarion Community Help]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#008800"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="Clarion Community Help"/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=clarionhelp_contents&amp;do=index" title="Sitemap"/>
+<link rel="manifest" href="/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=clarionhelp_contents"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=clarionhelp_contents"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"clarionhelp_contents","namespace":"","ACT":"recent","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=dokuwiki&amp;tseed=6c87f37cf2e26d7e09fa69b644b48db6"></script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_recent tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=logo.png" width="354" height="103" alt="" /> <span>Clarion Community Help</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li class="action login"><a href="/doku.php?id=clarionhelp_contents&amp;do=login&amp;sectok=" title="Log In" rel="nofollow"><span>Log In</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10 17.25V14H3v-4h7V6.75L15.25 12 10 17.25M8 2h9a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-4h2v4h9V4H8v4H6V4a2 2 0 0 1 2-2z"/></svg></a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="clarionhelp_contents" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="clarionhelp_contents" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="">Show page</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent Changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Log In</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li class="action recent"><a href="/doku.php?id=clarionhelp_contents&amp;do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r">Recent Changes</a></li><li class="action media"><a href="/doku.php?id=clarionhelp_contents&amp;do=media&amp;ns=" title="Media Manager" rel="nofollow">Media Manager</a></li><li class="action index"><a href="/doku.php?id=clarionhelp_contents&amp;do=index" title="Sitemap [x]" rel="nofollow" accesskey="x">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=start"  class="breadcrumbs" title="start">start</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=clarionhelp_contents"  class="breadcrumbs" title="clarionhelp_contents">clarionhelp_contents</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=releasenoteshome"  class="breadcrumbs" title="releasenoteshome">releasenoteshome</a></bdi> <span class="bcsep">•</span> <bdi><a href="/doku.php?id=thirdparty"  class="breadcrumbs" title="thirdparty">thirdparty</a></bdi> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=whats_new_in_clarion_10.htm"  class="breadcrumbs" title="whats_new_in_clarion_10.htm">whats_new_in_clarion_10.htm</a></bdi></span></div>
+                    </div>
+    
+
+
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+                
+                <div class="pageId"><span>clarionhelp_contents</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<h1 class="sectionedit1" id="recent_changes">Recent Changes</h1>
+<div class="level1">
+
+<p>
+The following pages were changed recently.
+</p>
+
+</div>
+<form id="dw__recent" method="get" class="changes" action="" accept-charset="utf-8"><div class="no">
+<input type="hidden" name="do" value="recent" /><input type="hidden" name="id" value="clarionhelp_contents" /><div class="changeType"><label><span>View changes of</span> <select name="show_changes" class="quickselect">
+<option value="pages">Pages</option><option value="mediafiles">Media files</option><option value="both" selected="selected">Both pages and media files</option>
+</select></label>
+<button name="do[recent]" type="submit">Apply</button>
+</div><ul >
+<li class="minor">
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="welcomeclarion.htm" class="icon" /><span class="date">
+2021/08/08 21:27</span>
+<a class="diff_link" href="/doku.php?id=welcomeclarion.htm&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=welcomeclarion.htm&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=welcomeclarion.htm" class="wikilink1" title="welcomeclarion.htm">welcomeclarion.htm</a><span class="sum">
+ – </span>
+<span class="user">
+<bdi>donnedwards</bdi></span>
+<span class="sizechange positive">
++12 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="what_return_field_from_group_.htm" class="icon" /><span class="date">
+2021/07/27 04:49</span>
+<a class="diff_link" href="/doku.php?id=what_return_field_from_group_.htm&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=what_return_field_from_group_.htm&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=what_return_field_from_group_.htm" class="wikilink1" title="what_return_field_from_group_.htm">what_return_field_from_group_.htm</a><span class="sum">
+ – Fix &amp;amp to &amp;=</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange negative">
+-2 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="layout_set_window_orientation_.htm" class="icon" /><span class="date">
+2021/07/17 01:57</span>
+<a class="diff_link" href="/doku.php?id=layout_set_window_orientation_.htm&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=layout_set_window_orientation_.htm&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=layout_set_window_orientation_.htm" class="wikilink1" title="layout_set_window_orientation_.htm">layout_set_window_orientation_.htm</a><span class="sum">
+ – Format CODE</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange negative">
+-12 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="entry_declare_a_data_entry_control_.htm" class="icon" /><span class="date">
+2021/07/02 07:36</span>
+<a class="diff_link" href="/doku.php?id=entry_declare_a_data_entry_control_.htm&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=entry_declare_a_data_entry_control_.htm&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=entry_declare_a_data_entry_control_.htm" class="wikilink1" title="entry_declare_a_data_entry_control_.htm">entry_declare_a_data_entry_control_.htm</a><span class="sum">
+ – Format CODE</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange negative">
+-122 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_11.1.13744" class="icon" /><span class="date">
+2021/06/28 03:44</span>
+<a class="diff_link" href="/doku.php?id=readme_11.1.13744&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_11.1.13744&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_11.1.13744" class="wikilink1" title="readme_11.1.13744">readme_11.1.13744</a><span class="sum">
+ – Add AnyScreen v1.2 changelog</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++7.5 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="releasenoteshome" class="icon" /><span class="date">
+2021/06/28 02:59</span>
+<a class="diff_link" href="/doku.php?id=releasenoteshome&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=releasenoteshome&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=releasenoteshome" class="wikilink1" title="releasenoteshome">releasenoteshome</a><span class="sum">
+ – [Clarion 11.1] note AS 1.2</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++21 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12398" class="icon" /><span class="date">
+2021/06/27 12:25</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12398&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12398&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12398" class="wikilink1" title="readme_10.0.12398">readme_10.0.12398</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++2.4 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12349" class="icon" /><span class="date">
+2021/06/27 12:24</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12349&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12349&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12349" class="wikilink1" title="readme_10.0.12349">readme_10.0.12349</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++259 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12341" class="icon" /><span class="date">
+2021/06/27 12:22</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12341&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12341&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12341" class="wikilink1" title="readme_10.0.12341">readme_10.0.12341</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++1.2 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12327" class="icon" /><span class="date">
+2021/06/27 12:13</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12327&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12327&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12327" class="wikilink1" title="readme_10.0.12327">readme_10.0.12327</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++4.7 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12055" class="icon" /><span class="date">
+2021/06/27 12:10</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12055&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12055&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12055" class="wikilink1" title="readme_10.0.12055">readme_10.0.12055</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++3.8 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.12026" class="icon" /><span class="date">
+2021/06/27 12:06</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.12026&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.12026&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.12026" class="wikilink1" title="readme_10.0.12026">readme_10.0.12026</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++3.1 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_10.0.11925" class="icon" /><span class="date">
+2021/06/27 12:03</span>
+<a class="diff_link" href="/doku.php?id=readme_10.0.11925&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_10.0.11925&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_10.0.11925" class="wikilink1" title="readme_10.0.11925">readme_10.0.11925</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++2.1 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_9.1.11457" class="icon" /><span class="date">
+2021/06/27 11:54</span>
+<a class="diff_link" href="/doku.php?id=readme_9.1.11457&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_9.1.11457&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_9.1.11457" class="wikilink1" title="readme_9.1.11457">readme_9.1.11457</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++1.3 KB</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_9.1.11396" class="icon" /><span class="date">
+2021/06/27 11:52</span>
+<a class="diff_link" href="/doku.php?id=readme_9.1.11396&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_9.1.11396&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_9.1.11396" class="wikilink1" title="readme_9.1.11396">readme_9.1.11396</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++659 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_9.1.11497" class="icon" /><span class="date">
+2021/06/27 11:51</span>
+<a class="diff_link" href="/doku.php?id=readme_9.1.11497&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_9.1.11497&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_9.1.11497" class="wikilink1" title="readme_9.1.11497">readme_9.1.11497</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++966 B</span>
+</div>
+</li>
+<li >
+<div class="li">
+<img src="/lib/images/fileicons/file.png" alt="readme_9.1.11529" class="icon" /><span class="date">
+2021/06/27 11:50</span>
+<a class="diff_link" href="/doku.php?id=readme_9.1.11529&amp;do=diff">
+<img src="/lib/images/diff.png" width="15" height="11" title="Show differences to current revisions" alt="Show differences to current revisions"/>
+</a>
+<a class="revisions_link" href="/doku.php?id=readme_9.1.11529&amp;do=revisions">
+<img src="/lib/images/history.png" width="12" height="14" title="Old revisions" alt="Old revisions"/>
+</a>
+<a href="/doku.php?id=readme_9.1.11529" class="wikilink1" title="readme_9.1.11529">readme_9.1.11529</a><span class="sum">
+ – created</span>
+<span class="user">
+<bdi>carlbarnes</bdi></span>
+<span class="sizechange positive">
++437 B</span>
+</div>
+</li>
+</ul>
+<div class="pagenav">
+</div>
+</div></form>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>clarionhelp_contents.txt</bdi> · Last modified: 2021/04/15 09:44 (external edit)</div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li class="show"><a href="/doku.php?id=clarionhelp_contents&amp;do=" title="Show page [v]" rel="nofollow" accesskey="v"><span>Show page</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m9 16v-2H6v2h9m3-4v-2H6v2h12z"/></svg></a></li><li class="revs"><a href="/doku.php?id=clarionhelp_contents&amp;do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o"><span>Old revisions</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"/></svg></a></li><li class="backlink"><a href="/doku.php?id=clarionhelp_contents&amp;do=backlink" title="Backlinks" rel="nofollow"><span>Backlinks</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"/></svg></a></li><li class="top"><a href="#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t"><span>Back to top</span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="urlextern">CC Attribution-Share Alike 4.0 International</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="/lib/images/license/button/cc-by-sa.png" alt="CC Attribution-Share Alike 4.0 International" /></a>        <a href="https://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="https://php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="//validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="//jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="https://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=clarionhelp_contents&amp;1631826200" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div></body>
+</html>
